@@ -1,5 +1,5 @@
 Month | Day|  Speaker
-======|====|==============
+------|----|--------------
 Nov.  |  4 |  Paul Yang
 Nov.  | 11 |  1
 Nov.  | 18 |  Mingpu
