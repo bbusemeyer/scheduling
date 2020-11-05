@@ -1,13 +1,13 @@
 Month | Day|  Speaker
 ------|----|--------------
 Nov.  |  4 |  Paul Yang
-Nov.  | 11 |  Luo, Di
+Nov.  | 11 |  Di Luo
 Nov.  | 18 |  Mingpu
 Nov.  | 25 |  _Thanksgiving_
-Dec.  |  2 |  Shiwei's students
+Dec.  |  2 |  Zhi-Yu Xiao
 Dec.  |  9 |  Shiwei's students
-Dec.  | 16 |  6
-Dec.  | 23 |  7
-Dec.  | 30 |  8
-Jan.  |  6 |  9
-Jan.  | 13 |  10
+Dec.  | 16 |  ?
+Dec.  | 23 |  _Christmas_
+Dec.  | 30 |  ?
+Jan.  |  6 |  ?
+Jan.  | 13 |  ?
