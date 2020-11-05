@@ -1,4 +1,4 @@
-date       |  Speaker
+date   |  |  Speaker
 ========================
 Nov.  |  4 |  Paul Yang
 Nov.  | 11 |  1
