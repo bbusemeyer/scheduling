@@ -8,6 +8,6 @@ Dec.  |  2 |  Zhi-Yu Xiao
 Dec.  |  9 |  Shiwei's student?
 Dec.  | 16 |  Shiwei's student?
 Dec.  | 23 |  _Christmas_
-Dec.  | 30 |  ?
+Dec.  | 30 |  _New Years Eve_
 Jan.  |  6 |  ?
 Jan.  | 13 |  ?
