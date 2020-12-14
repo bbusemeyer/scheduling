@@ -9,5 +9,11 @@ Dec.  |  9 |  Ettore/_need to cancel_
 Dec.  | 16 |  _cancel or Ettore_
 Dec.  | 23 |  _Christmas_
 Dec.  | 30 |  _New Years Eve_
-Jan.  |  6 |  ?
-Jan.  | 13 |  ?
+Jan.  |  6 |  Ettore
+Jan.  | 13 |  Alex Hampel
+Jan.  | 20 | 
+Jan.  | 27 | 
+Feb.  |  3 |
+Feb.  | 10 |
+Feb.  | 17 |
+Feb.  | 24 |
