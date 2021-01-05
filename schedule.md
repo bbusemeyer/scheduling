@@ -10,6 +10,7 @@ Dec.  | 16 |  _cancel or Ettore_
 Dec.  | 23 |  _Christmas_
 Dec.  | 30 |  _New Years Eve_
 Jan.  |  6 |  _canceled due to schedule conflict_
+ | | 
 Jan.  | 13 |  Alex Hampel
 Jan.  | 20 |  Ettore
 Jan.  | 27 |  Zhi-Yu
