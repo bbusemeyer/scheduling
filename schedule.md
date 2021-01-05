@@ -12,8 +12,11 @@ Dec.  | 30 |  _New Years Eve_
 Jan.  |  6 |  _canceled due to schedule conflict_
 Jan.  | 13 |  Alex Hampel
 Jan.  | 20 |  Ettore
-Jan.  | 27 |  Joonho (?)
+Jan.  | 27 |  Zhi-Yu
 Feb.  |  3 |  
 Feb.  | 10 |
 Feb.  | 17 |
 Feb.  | 24 |
+
+Ask Jack Webber for Feb. 3
+Reask Joonho in Feb. 
