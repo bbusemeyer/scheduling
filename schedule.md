@@ -14,9 +14,10 @@ Jan.  | 13 |  Alex Hampel
  | | 
 Jan.  | 20 |  Ettore
 Jan.  | 27 |  Zhi-Yu
-Feb.  |  3 |  Verena (?)
+Feb.  |  3 |  Me (?)
 Feb.  | 10 |  Jack Weber
 Feb.  | 17 |  Brenda (?)
 Feb.  | 24 |  Joonho (?)
 
 Reask Joonho in Feb. 
+Verena in March sometime.
