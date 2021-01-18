@@ -18,6 +18,8 @@ Feb.  |  3 |  Me (?)
 Feb.  | 10 |  Jack Weber
 Feb.  | 17 |  Brenda (?)
 Feb.  | 24 |  Joonho (?)
+ | |
+ Mar. | 31 | Verena
 
 Reask Joonho in Feb. 
-Verena in March sometime.
+Remind Verena closer to her talk. 
