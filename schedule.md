@@ -17,7 +17,7 @@ Jan.  | 27 |  Zhi-Yu
 Feb.  |  3 |  Me (?)
 Feb.  | 10 |  Jack Weber
 Feb.  | 17 |  Brenda (?)
-Feb.  | 24 |  Joonho (?)
+Feb.  | 24 |  James Shee
  | |
  Mar. | 31 | Verena
 
