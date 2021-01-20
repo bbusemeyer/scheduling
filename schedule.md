@@ -22,4 +22,5 @@ Feb.  | 24 |  James Shee
  Mar. | 31 | Verena
 
 Reask Joonho in Feb. 
+
 Remind Verena closer to her talk. 
