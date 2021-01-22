@@ -11,16 +11,18 @@ Dec.  | 23 |  _Christmas_
 Dec.  | 30 |  _New Years Eve_
 Jan.  |  6 |  _canceled due to schedule conflict_
 Jan.  | 13 |  Alex Hampel
- | | 
 Jan.  | 20 |  Ettore
+ | | 
 Jan.  | 27 |  Zhi-Yu
-Feb.  |  3 |  Me (?)
+Feb.  |  3 |  Me
 Feb.  | 10 |  Jack Weber
-Feb.  | 17 |  Yuan-Yao (?)
+Feb.  | 17 |  Yuan-Yao
 Feb.  | 24 |  James Shee
- | |
- Mar. | 31 | Verena
+Mar.  |  3 |  Siyuan (?)
+Mar.  | 10 |  *March Meeting Practice*
+Mar.  | 24 |  *March meeting*
+Mar.  | 31 | Verena
 
 Reask Joonho in Feb. 
-
 Remind Verena closer to her talk. 
+Bo ML talk?
