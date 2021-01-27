@@ -18,7 +18,7 @@ Feb.  |  3 |  Me
 Feb.  | 10 |  Jack Weber
 Feb.  | 17 |  Yuan-Yao
 Feb.  | 24 |  James Shee
-Mar.  |  3 |  Siyuan (?)
+Mar.  |  3 |  Siyuan
 Mar.  | 10 |  *March Meeting Practice*
 Mar.  | 24 |  *March meeting*
 Mar.  | 31 | Verena
