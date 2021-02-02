@@ -15,14 +15,15 @@ Jan.  | 20 |  Ettore
  | | 
 Jan.  | 27 |  Zhi-Yu
 Feb.  |  3 |  Me
-Feb.  | 10 |  Jack Weber
-Feb.  | 17 |  Yuan-Yao
+Feb.  | 10 |  Ben
+Feb.  | 17 |  Jack Weber
 Feb.  | 24 |  James Shee
 Mar.  |  3 |  Siyuan
 Mar.  | 10 |  *March Meeting Practice*
 Mar.  | 24 |  *March meeting*
 Mar.  | 31 | Verena
 April |  7 | Hao Xu
+April | 14 | Yuan-Yao (?)
 
 Reask Joonho in Feb. 
 Remind Verena closer to her talk. 
