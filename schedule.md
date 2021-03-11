@@ -22,9 +22,11 @@ Mar.  |  3 |  Siyuan
 Mar.  | 10 |  *March Meeting Practice*
 Mar.  | 24 |  *March meeting*
 Mar.  | 31 | Verena
-April |  7 | Hao Xu
+April |  7 | Eli Chertkov
 April | 14 | Yuan-Yao
+April | 21 | Bo 
+April | 28 | Hao Xu (?)
+
 
 Reask Joonho in Feb. 
-Remind Verena closer to her talk. 
 Bo ML talk?
