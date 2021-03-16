@@ -26,3 +26,5 @@ April |  7 | Eli Chertkov
 April | 14 | Yuan-Yao
 April | 21 | Bo 
 April | 28 | Hao Xu (?)
+
+Ask James Callahan about recent downfolding paper?
