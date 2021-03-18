@@ -19,7 +19,8 @@ Feb.  | 17 |  Jack Weber
 Feb.  | 24 |  James Shee
 Mar.  |  3 |  Siyuan
 Mar.  | 10 |  *March Meeting Practice*
-Mar.  | 24 |  *March meeting*
+Mar.  | 17 |  *March meeting*
+Mar.  | 24 | March meeting disucssion
  | | 
 Mar.  | 31 | Verena
 April |  7 | Eli Chertkov
