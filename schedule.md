@@ -24,15 +24,15 @@ Mar.  | 24 | March meeting disucssion
 Mar.  | 31 | Verena
 April |  7 | Eli Chertkov
 April | 14 | Yuan-Yao
-| |
 April | 21 | Hao Xu 
 April | 28 | Bo
 May   |  5 | Natanael de Carvalho Costa
 May   | 12 | Kyle
-May   | 19 | 
-May   | 26 | 
+| |
+May   | 19 | Brian
+May   | 26 | Zhi-Yu
 June  |  2 | Paul Yang
-June  |  9 | 
-June  |  
+June  |  9 | Siyuan
+June  | 16 |  
 
 Ask James Callahan about recent downfolding paper?
