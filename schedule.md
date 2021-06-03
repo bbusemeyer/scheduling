@@ -38,4 +38,5 @@ June  | 23 | Yuan-Yao
 June  | 30 | Bo?
 June  |  7 | Hao?
 
+Ask about Steve White giving a QMC  Meeting?
 Ask James Callahan about recent downfolding paper?
