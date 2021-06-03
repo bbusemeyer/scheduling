@@ -33,6 +33,9 @@ May   | 19 | Brian
 May   | 26 | Zhi-Yu
 June  |  2 | Paul Yang
 June  |  9 | Siyuan
-June  | 16 |  
+June  | 16 | _SAB meeting (cancelled)_
+June  | 23 | Yuan-Yao
+June  | 30 | Bo?
+June  |  7 | Hao?
 
 Ask James Callahan about recent downfolding paper?
