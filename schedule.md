@@ -35,8 +35,8 @@ June  |  2 | Paul Yang
 June  |  9 | Siyuan
 June  | 16 | _SAB meeting (cancelled)_
 June  | 23 | Yuan-Yao
-June  | 30 | Bo?
-June  |  7 | Hao?
+June  | 30 | 
+July  |  7 | Bo
 
 Ask about Steve White giving a QMC  Meeting?
 Ask James Callahan about recent downfolding paper?
