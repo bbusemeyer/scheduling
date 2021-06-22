@@ -36,9 +36,11 @@ June  |  9 | Siyuan
 June  | 16 | _SAB meeting (cancelled)_
 June  | 23 | Yuan-Yao
 June  | 30 | 
-July  |  7 | 
-July  | 14 | 
-July  | 21 | HongZhou?
+July  |  7 | _Stochastic School_ 
+July  | 14 | _Electonic structure meeting_
+July  | 21 | Hong Zhou
+July  | 28 | James Smith
+Aug.  |  4 | 
 
-Ask about Steve White giving a QMC  Meeting?
+
 Ask James Callahan about recent downfolding paper?
