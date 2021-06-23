@@ -44,3 +44,6 @@ Aug.  |  4 |
 
 
 Ask James Callahan about recent downfolding paper?
+Peter Lunts? 
+Corentin talks about diagramatic Monte Carlo? 
+
