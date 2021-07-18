@@ -40,8 +40,10 @@ July  |  7 | _Stochastic School_
 July  | 14 | _Electonic structure meeting_
 July  | 21 | Hong Zhou
 July  | 28 | James Smith
-Aug.  |  4 | 
-
+Aug.  |  4 | Peter Luntz
+Aug.  | 11 | Bo?
+Aug.  | 18 | 
+Aug.  | 25 | 
 
 Ask James Callahan about recent downfolding paper?
 Peter Lunts? 
