@@ -46,8 +46,8 @@ Aug.  | 18 | _Chat_
 Aug.  | 25 | _Chat_
 Sept. |  1 | _Chat_
 Sept. |  8 | Miguel/Paul
-Sept. | 15 | Bo
-Sept. | 22 | Seher
+Sept. | 15 | Seher?
+Sept. | 22 | Bo
 Sept. | 29 | _Retreat_
 
 Ask James Callahan about recent downfolding paper?
