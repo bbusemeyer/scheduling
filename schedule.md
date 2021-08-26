@@ -41,9 +41,14 @@ July  | 14 | _Electonic structure meeting_
 July  | 21 | Hong Zhou
 July  | 28 | James Smith
 Aug.  |  4 | Peter Luntz
-Aug.  | 11 | Bo?
-Aug.  | 18 | 
-Aug.  | 25 | 
+Aug.  | 11 | Chat
+Aug.  | 18 | Chat
+Aug.  | 25 | Chat
+Sept. |  1 | Chat
+Sept. |  8 | Miguel/Paul
+Sept. | 15 | Bo
+Sept. | 22 | Seher
+Sept. | 29 | _Retreat_
 
 Ask James Callahan about recent downfolding paper?
 Peter Lunts? 
