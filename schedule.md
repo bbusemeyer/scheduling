@@ -49,6 +49,7 @@ Sept. |  8 | Miguel/Paul
 Sept. | 15 | Seher?
 Sept. | 22 | Bo
 Sept. | 29 | _Retreat_
+Oct.  |  5 | Kun Chen
 
 Ask James Callahan about recent downfolding paper?
 Peter Lunts? 
