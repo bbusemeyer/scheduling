@@ -45,11 +45,12 @@ Aug.  | 11 | _Chat_
 Aug.  | 18 | _Chat_
 Aug.  | 25 | _Chat_
 Sept. |  1 | _Chat_
-Sept. |  8 | Miguel/Paul
-Sept. | 15 | Seher?
-Sept. | 22 | Bo
+Sept. |  8 | ?
+Sept. | 15 | Miguel/Paul
+Sept. | 22 | Seher _or_ Bo
 Sept. | 29 | _Retreat_
 Oct.  |  5 | Kun Chen
+Oct.  | 12 | Bo _or_ Seher
 
 Ask James Callahan about recent downfolding paper?
 Peter Lunts? 
