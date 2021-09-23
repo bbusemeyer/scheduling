@@ -47,12 +47,11 @@ Aug.  | 25 | _Chat_
 Sept. |  1 | _Chat_
 Sept. |  8 | ?
 Sept. | 15 | Miguel/Paul
-Sept. | 22 | Seher _or_ Bo
-Sept. | 29 | _Retreat_
+Sept. | 22 | _retreat_
+Sept. | 29 | Seher
 Oct.  |  5 | Kun Chen
-Oct.  | 12 | Bo _or_ Seher
+Oct.  | 12 | Bo
 
 Ask James Callahan about recent downfolding paper?
-Peter Lunts? 
 Corentin talks about diagramatic Monte Carlo? 
 
