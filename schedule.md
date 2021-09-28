@@ -33,7 +33,6 @@ May   | 26 | Zhi-Yu
 June  |  2 | Paul Yang
 June  |  9 | Siyuan
 June  | 16 | _SAB meeting (cancelled)_
-| |
 June  | 23 | Yuan-Yao
 June  | 30 | 
 July  |  7 | _Stochastic School_ 
@@ -48,9 +47,15 @@ Sept. |  1 | _Chat_
 Sept. |  8 | ?
 Sept. | 15 | Miguel/Paul
 Sept. | 22 | _retreat_
-Sept. | 29 | Seher
-Oct.  |  5 | Kun Chen
-Oct.  | 12 | Bo
+Sept.  | 28 | Seher
+Oct.   |  5 | Kun Chen
+Oct.   | 12 | Bo
+Oct.   | 19 | Hao Xu
+Oct.   | 26 | Zhi-Yu
+Nov.   |  2 | Siyuan
+Nov.   |  9 | Yuan-Yao
+Nov.   | 16 | Brian
+Nov.   | 23 | Paul
 
 Ask James Callahan about recent downfolding paper?
 Corentin talks about diagramatic Monte Carlo? 
