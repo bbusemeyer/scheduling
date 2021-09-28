@@ -45,12 +45,13 @@ Sept.  | 28 | Seher
 Oct.   |  5 | Kun Chen
 Oct.   | 12 | Bo
 Oct.   | 19 | Hao Xu
-Oct.   | 26 | Zhi-Yu
-Nov.   |  2 | Siyuan
-Nov.   |  9 | Yuan-Yao
-Nov.   | 16 | Brian
-Nov.   | 23 | Paul
-Nov .  | 30 | Seher
+Oct.   | 26 | Kyle
+Nov.   |  2 | Zhi-Yu
+Nov.   |  9 | Siyuan
+Nov.   | 16 | Yuan-Yao
+Nov.   | 23 | Brian
+Nov .  | 30 | Paul
+Dec.   |  7 | Seher
 
 Ask James Callahan about recent downfolding paper?
 Corentin talks about diagramatic Monte Carlo? 
