@@ -1,4 +1,5 @@
 import numpy as np
+from copy import copy
 
 class Scheduler:
   def __init__(self,first_date,presenters,avoid=[]):
@@ -23,7 +24,7 @@ class Scheduler:
 
   def find_dates(self):
     for person in self.presenters:
-      self.dates.append("{0:<6} {1:>2}".format(*self.next_date))
+      self.dates.append(copy(self.next_date))
       self._step_date()
       while self.next_date in self.avoid:
         self._step_date()
@@ -32,16 +33,29 @@ class Scheduler:
     """ Exports a suggested schedule. New for every call."""
     np.random.shuffle(self.presenters)
 
-  def export(self):
-    for date,presenter in zip(self.dates,self.presenters):
-      print("{}   {}".format(date,presenter))
+  def export(self, markdown=True):
+    if not markdown:
+      for date,presenter in zip(self.dates,self.presenters):
+        date = "{0:<6} {1:>2}".format(*date)
+        print("{}   {}".format(date,presenter))
+    else:
+      for date,presenter in zip(self.dates,self.presenters):
+        date = "{0:<6} | {1:>2}".format(*date)
+        print("{} | {}".format(date,presenter))
 
 if __name__=='__main__':
-  avoid = [["Jan.", 21]]
+  avoid = [["Oct.", 5]]
   presenters = [
-      1,"Mingpu",3,4,5,6,7,8,9,10
+      'Seher',
+      'Bo',
+      'Hao Xu', 
+      'Zhi-Yu', 
+      'Siyuan',
+      'Yuan-Yao',
+      'Brian',
+      'Paul',
     ]
-  first_date = ["Nov.",11]
+  first_date = ["Sept.",28]
   sched=Scheduler(first_date,presenters,avoid)
   sched.find_dates()
-  sched.export()
+  sched.export(markdown=True)
