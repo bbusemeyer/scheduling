@@ -47,9 +47,9 @@ Oct.   | 12 | Bo
 Oct.   | 19 | Hao Xu
 Oct.   | 26 | Kyle
 Nov.   |  2 | Zhi-Yu
-Nov.   |  9 | Siyuan
+Nov.   |  9 | Brian
 Nov.   | 16 | Yuan-Yao
-Nov.   | 23 | Brian
+Nov.   | 23 | Siyuan
 Nov .  | 30 | Paul
 Dec.   |  7 | Seher
 
