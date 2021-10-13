@@ -52,6 +52,7 @@ Nov.   | 16 | Yuan-Yao
 Nov.   | 23 | Siyuan
 Nov .  | 30 | Paul
 Dec.   |  7 | Seher
+Dec.   | 14 | Bo
 
 Ask James Callahan about recent downfolding paper?
 Corentin talks about diagramatic Monte Carlo? 
