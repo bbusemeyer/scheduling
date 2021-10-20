@@ -53,6 +53,10 @@ Nov.   | 23 | Siyuan
 Nov .  | 30 | Paul
 Dec.   |  7 | Seher
 Dec.   | 14 | Bo
+Dec.   | 21 | _Holiday_
+Dec.   | 28 | _Holiday_
+Jan.   |  4 | _Holiday_
+Jan.   | 11 | Hao Xu
 
 Ask James Callahan about recent downfolding paper?
 Corentin talks about diagramatic Monte Carlo? 
