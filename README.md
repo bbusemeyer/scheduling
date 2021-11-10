@@ -57,6 +57,10 @@ Dec.   | 21 | _Holiday_
 Dec.   | 28 | _Holiday_
 Jan.   |  4 | _Holiday_
 Jan.   | 11 | Hao Xu
+Jan.   | 18 | Kyle
+Jan.   | 25 | Zhi-Yu
+Feb.   |  1 | Brian
+
 
 Ask James Callahan about recent downfolding paper?
 Corentin talks about diagramatic Monte Carlo? 
