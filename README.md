@@ -56,6 +56,7 @@ Dec.   | 14 | _cancelled_
 Dec.   | 21 | _Holiday_
 Dec.   | 28 | _Holiday_
 Jan.   |  4 | _Holiday_
+
 Order upon return:
 * Bo
 * Hao Xu
