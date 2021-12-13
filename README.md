@@ -52,14 +52,19 @@ Nov.   | 16 | Yuan-Yao
 Nov.   | 23 | Siyuan
 Nov .  | 30 | Paul
 Dec.   |  7 | Seher
-Dec.   | 14 | Bo
+Dec.   | 14 | _cancelled_
 Dec.   | 21 | _Holiday_
 Dec.   | 28 | _Holiday_
 Jan.   |  4 | _Holiday_
-Jan.   | 11 | Hao Xu
-Jan.   | 18 | Kyle
-Jan.   | 25 | Zhi-Yu
-Feb.   |  1 | Brian
+Order upon return:
+* Bo
+* Hao Xu
+* Kyle
+* Zhi-Yu
+* Brian
+* Siyuan
+* Paul
+* Seher
 
 
 Ask James Callahan about recent downfolding paper?
